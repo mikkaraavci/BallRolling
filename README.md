@@ -1,11 +1,11 @@
 # BallRolling
 
 
-<p> Enjoyable Hyper-Casual Game<p>
-<p> 5 Level Design <p>
-<p> Animation <p>
-<p> Using Gesture Mod <p>
-<p> Mobile Game Design <p>
+<p> Level Base Game<p>
+<p> Using Probuilder for Level Design<p>
+<p> Data Manager System <p>
+<p> UI Connection with Data Manager <p>
+<p> Player Movment with Force Magnitude <p>
   
 
 # Project Display Image
