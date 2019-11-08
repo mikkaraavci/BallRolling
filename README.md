@@ -4,7 +4,7 @@
 <p> Level Base Game<p>
 <p> Using Probuilder for Level Design<p>
 <p> Data Manager System <p>
-<p> UI Connection with Data Manager <p>
+<p> UI Manager Connection with Data Manager <p>
 <p> Player Movment with Force Magnitude <p>
   
 
